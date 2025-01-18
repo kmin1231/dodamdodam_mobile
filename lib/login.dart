@@ -270,7 +270,6 @@ class _SignupScreenState extends State<SignupScreen> {
 }
 
 
-
 class SigninScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
